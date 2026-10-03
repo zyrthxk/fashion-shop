@@ -1,0 +1,13 @@
+node_modules/
+dist/
+coverage/
+*.log
+.DS_Store
+
+# Biến môi trường: KHÔNG BAO GIỜ commit
+.env
+.env.*
+!.env.example
+
+# File sao lưu tự động của Visual Paradigm
+*.vpp.bak*

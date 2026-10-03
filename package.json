@@ -1,0 +1,12 @@
+{
+  "name": "fashion-shop",
+  "private": true,
+  "scripts": {
+    "dev": "pnpm -r --parallel dev",
+    "lint": "pnpm -r lint",
+    "format": "prettier --write ."
+  },
+  "devDependencies": {
+    "prettier": "^3.9.9"
+  }
+}
